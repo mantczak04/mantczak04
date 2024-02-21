@@ -1,2 +1,2 @@
 <h1> Thank you for stars! : </h1> 
-<table align="center"> <tr><tr></tr></table>
+<table align="center"> <tr><th>	<img src="https://avatars.githubusercontent.com/u/69794396?v=4" width="200px" title="mantczak04"></th><th>	<img src="https://avatars.githubusercontent.com/u/95531529?v=4" width="200px" title="mlodygbelmondo"></th><tr><td align="center"><a href="https://github.com/mantczak04">@mantczak04 </td><td align="center"><a href="https://github.com/mlodygbelmondo">@mlodygbelmondo </td></tr></table>
