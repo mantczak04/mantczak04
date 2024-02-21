@@ -1,3 +1,2 @@
-Thank you for stars! : 
- ![mantczak04](https://avatars.githubusercontent.com/u/69794396?v=4)[@mantczak04](https://www.github.com/mantczak04)
- ![mlodygbelmondo](https://avatars.githubusercontent.com/u/95531529?v=4)[@mlodygbelmondo](https://www.github.com/mlodygbelmondo)
+<h1> Thank you for stars! : </h1> 
+<table> <tr><th>	<img src="https://avatars.githubusercontent.com/u/69794396?v=4" width="200px" title="mantczak04"></th><th>	<img src="https://avatars.githubusercontent.com/u/95531529?v=4" width="200px" title="mlodygbelmondo"></th><tr><td>@mantczak04 </td><td>@mlodygbelmondo </td></tr></table>
