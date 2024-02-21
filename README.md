@@ -1,2 +1,2 @@
 <h1> Thank you for stars! : </h1> 
-<table> <tr><th>	<img src="https://avatars.githubusercontent.com/u/69794396?v=4" width="200px" title="mantczak04"></th><th>	<img src="https://avatars.githubusercontent.com/u/95531529?v=4" width="200px" title="mlodygbelmondo"></th><tr><td>@mantczak04 </td><td>@mlodygbelmondo </td></tr></table>
+<table> <tr><th>	<img src="https://avatars.githubusercontent.com/u/76264155?v=4" width="200px" title="mariemzayn18"></th><th>	<img src="https://avatars.githubusercontent.com/u/88582540?v=4" width="200px" title="tuyucheng7"></th><th>	<img src="https://avatars.githubusercontent.com/u/11568281?v=4" width="200px" title="BytePiston"></th><tr><td>@mariemzayn18 </td><td>@tuyucheng7 </td><td>@BytePiston </td></tr></table>
